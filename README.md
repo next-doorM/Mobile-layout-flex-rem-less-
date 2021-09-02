@@ -7,9 +7,9 @@
  1.1  技术方案
 
 
-1.flex + rem + + flexible.js +  LESS 
-2. 最小适配设备为iphone5 320px  最大设配设备为iphone8plus(ipad能正常查看内容即可)
-3. 旋转木马轮播图
+1.  flex + rem + + flexible.js +  LESS 
+2.  最小适配设备为iphone5 320px  最大设配设备为iphone8plus(ipad能正常查看内容即可)
+3.  旋转木马轮播图
 
  2. 1 初始化文件
 
