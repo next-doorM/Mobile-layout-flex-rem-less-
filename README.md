@@ -11,7 +11,8 @@
 2.  最小适配设备为iphone5 320px  最大设配设备为iphone8plus(ipad能正常查看内容即可)
 3.  旋转木马轮播图
 
- 2. 1 初始化文件
+
+ 2.1 初始化文件
 
 - 引入  normalize.css
 
