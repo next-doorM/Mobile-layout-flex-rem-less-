@@ -41,5 +41,6 @@
    ~~~css
    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.1)
    ~~~
-![Snipaste_2021-09-02_22-25-07](https://user-images.githubusercontent.com/86151888/131861589-34f08b5b-909c-499d-8f09-cd010b0b0e60.png)
+![Snipaste_2021-09-02_22-29-54](https://user-images.githubusercontent.com/86151888/131864202-e4e626b8-0e63-42ed-8b77-a763d0ec6d3b.png)
+
    
